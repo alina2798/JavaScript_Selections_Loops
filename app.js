@@ -80,5 +80,3 @@ console.log(`Did not find ${numberToFind} within 1-${n}..`);
 }
 }
 
-// Exercise 5
-console.log("EXERCISE 5:\n==========\n");
